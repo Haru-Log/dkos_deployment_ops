@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_4f196822b589:latest
+          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_abc26acb8b68
           env:
             - name: REACT_APP_SHARE_KAKAO_LINK_KEY
               valueFrom:
